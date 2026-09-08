@@ -1,2 +1,0 @@
-# Projects
-Data Analysis Projects
